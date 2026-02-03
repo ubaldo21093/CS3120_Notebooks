@@ -71,7 +71,3 @@ Before submitting your link:
 2.  **Answer Questions:** Check that all text/markdown questions are answered clearly.
 3.  **Verify Link:** Open your link in an incognito window to ensure it's accessible.
 4.  **Submit Link:** Submit the (GitHub/Gist) link to your completed notebook in Canvas. 
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
