@@ -11,6 +11,7 @@ As the semester progresses, new notebooks and resources will be added here.
 ## Current Labs
 
 *   **Lab 1: Linear Regression** - An introduction to fitting models, manual training methods, and the stability of linear models.
+*   **Lab 2: Model Tuning and Selection** - An exploration of performance metrics, model underfitting/overfitting, the bias-variance tradeoff, and cross-validation using the Ames Housing dataset.
 
 ## How to Use This Repository
 
